@@ -1,0 +1,88 @@
+# depslib dependency file v1.0
+1495782094 source:c:\users\furqan amin\dropbox\cp project\the warland\l1charr.cpp
+	<SFML/Graphics.hpp>
+	<string>
+	<iostream>
+	<SFML/Audio.hpp>
+	"L1CharR.h"
+
+1495784217 c:\users\furqan amin\dropbox\cp project\the warland\l1charr.h
+	<SFML/Graphics.hpp>
+	<string>
+	<SFML/Audio.hpp>
+	"Character.h"
+
+1495949337 c:\users\furqan amin\dropbox\cp project\the warland\character.h
+	<iostream>
+
+1495782124 source:c:\users\furqan amin\dropbox\cp project\the warland\l2charl.cpp
+	<SFML/Graphics.hpp>
+	<string>
+	<iostream>
+	<SFML/Audio.hpp>
+	"L2CharL.h"
+
+1495785173 c:\users\furqan amin\dropbox\cp project\the warland\l2charl.h
+	<SFML/Graphics.hpp>
+	<string>
+	<SFML/Audio.hpp>
+	"Character.h"
+
+1495781674 source:c:\users\furqan amin\dropbox\cp project\the warland\l2charr.cpp
+	<SFML/Graphics.hpp>
+	<string>
+	<iostream>
+	<SFML/Audio.hpp>
+	"L2CharR.h"
+
+1495784365 c:\users\furqan amin\dropbox\cp project\the warland\l2charr.h
+	<SFML/Graphics.hpp>
+	<string>
+	<SFML/Audio.hpp>
+	"Character.h"
+
+1495781658 source:c:\users\furqan amin\dropbox\cp project\the warland\l3charl.cpp
+	<SFML/Graphics.hpp>
+	<string>
+	<iostream>
+	<SFML/Audio.hpp>
+	"L3CharL.h"
+
+1495784385 c:\users\furqan amin\dropbox\cp project\the warland\l3charl.h
+	<SFML/Graphics.hpp>
+	<string>
+	<SFML/Audio.hpp>
+	"Character.h"
+
+1495781682 source:c:\users\furqan amin\dropbox\cp project\the warland\l3charr.cpp
+	<SFML/Graphics.hpp>
+	<string>
+	<iostream>
+	<SFML/Audio.hpp>
+	"L3CharR.h"
+
+1495785229 c:\users\furqan amin\dropbox\cp project\the warland\l3charr.h
+	<SFML/Graphics.hpp>
+	<string>
+	<SFML/Audio.hpp>
+	"Character.h"
+
+1495785798 source:c:\users\furqan amin\dropbox\cp project\the warland\main.cpp
+	<SFML/Graphics.hpp>
+	<string>
+	<iostream>
+	<SFML/Audio.hpp>
+	"Character.h"
+	"L1CharL.h"
+	"L1CharR.h"
+	"L2CharL.h"
+	"L2CharR.h"
+	"L3CharL.h"
+	"L3CharR.h"
+
+1495785202 c:\users\furqan amin\dropbox\cp project\the warland\l1charl.h
+	<SFML/Graphics.hpp>
+	<string>
+	<SFML/Audio.hpp>
+	"Character.h"
+
